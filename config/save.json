@@ -1,0 +1,100 @@
+{
+    "user" : {
+        "progress": 0
+    },
+    "desired" : {
+        "id" : 0,
+        "title" : "empty",
+        "time" : 0,
+        "questions": 0
+    },
+    "test" : [
+        [
+            "Despre sistemul porthepatic se poate afirma:",
+            "Arterele pulmonare:",
+            "Pancreasul nu secretă:",
+            "Enzimele proteolitice din sucul intestinal sunt:",
+            "În următorul segment al tubului digestiv, tunica musculară conține fibre musculare netede oblice:",
+            "Nodulii limfatici inghinali:",
+            "Limfa de la regiunea palmară dreaptă este colectată de:",
+            "Reciclarea componentelor hematelor îmbătrânite se face în:",
+            "Apa este detectată prin:",
+            "Motilitatea gastrică este stimulată de către:"
+        ]
+    ],
+    "answears" : [
+        [
+            [
+                "asigură circulația bidirecțională a sângelui",
+                "realizează transportul nutrienților la intestinul subțire",
+                "transportă sângele de la intestin la ficat",
+                "asigură transportul unui sânge bogat în oxigen",
+                2
+            ],
+            [
+                "asigură circulația nutritivă pulmonară",
+                "provin din trunchiul pulmonar",
+                "transportă sânge bogat în oxigen",
+                "aparțin marii circulații",
+                1
+            ],
+            [
+                "chimotripsina",
+                "lipaza",
+                "pepsina",
+                "amilaza",
+                3
+            ],
+            [
+                "aminopeptidaza si carboxipeptidaza",
+                "aminopeptidaza si dipeptidaza",
+                "dipeptidaza si zaharaza",
+                "aminopeptidaza si chimotripsina",
+                1
+            ],
+            [
+                "stomac",
+                "duoden",
+                "jejun",
+                "colon",
+                0
+            ],
+            [
+                "se află pe lungimea arterei poplitee",
+                "prezintă vase eferente care drenează limfa din regiunea inghinală",
+                "se află în artera iliacă internă",
+                "drenează limfa din fosa poplitee",
+                3
+            ],
+            [
+                "canalul toracic",
+                "nodulii limfatici iliaci",
+                "vena limfatică dreaptă",
+                "plăcile lui Peyer",
+                2
+            ],
+            [
+                "nodulii limfatici",
+                "timus",
+                "sinusurile limfatice",
+                "ficat și splină",
+                1
+            ],
+            [
+                "corpul vitros al ochiului",
+                "gustul dulce",
+                "papilele dermice",
+                "simțul olfactiv",
+                2
+            ],
+            [
+                "adrenalină",
+                "acetilcolină",
+                "secretina",
+                "colecistochinina",
+                1
+            ]
+        ]
+    ]
+
+}
